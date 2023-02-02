@@ -1,0 +1,5 @@
+## ReplaysApi
+
+### GET /replays
+# @name replaysGet
+GET http://api.opendota.com/api/replays

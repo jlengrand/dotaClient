@@ -1,0 +1,9 @@
+## RequestApi
+
+### GET /request/{jobId}
+# @name requestJobIdGet
+GET http://api.opendota.com/api/request/{{jobId}}
+
+### POST /request/{match_id}
+# @name requestMatchIdPost
+POST http://api.opendota.com/api/request/{{match_id}}

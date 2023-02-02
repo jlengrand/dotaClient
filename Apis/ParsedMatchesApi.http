@@ -1,0 +1,5 @@
+## ParsedMatchesApi
+
+### GET /parsedMatches
+# @name parsedMatchesGet
+GET http://api.opendota.com/api/parsedMatches

@@ -1,0 +1,5 @@
+## StatusApi
+
+### GET /status
+# @name statusGet
+GET http://api.opendota.com/api/status

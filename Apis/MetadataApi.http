@@ -1,0 +1,5 @@
+## MetadataApi
+
+### GET /metadata
+# @name metadataGet
+GET http://api.opendota.com/api/metadata

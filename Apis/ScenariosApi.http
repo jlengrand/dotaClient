@@ -1,0 +1,13 @@
+## ScenariosApi
+
+### GET /scenarios/itemTimings
+# @name scenariosItemTimingsGet
+GET http://api.opendota.com/api/scenarios/itemTimings
+
+### GET /scenarios/laneRoles
+# @name scenariosLaneRolesGet
+GET http://api.opendota.com/api/scenarios/laneRoles
+
+### GET /scenarios/misc
+# @name scenariosMiscGet
+GET http://api.opendota.com/api/scenarios/misc

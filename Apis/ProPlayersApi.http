@@ -1,0 +1,5 @@
+## ProPlayersApi
+
+### GET /proPlayers
+# @name proPlayersGet
+GET http://api.opendota.com/api/proPlayers

@@ -1,0 +1,5 @@
+## SearchApi
+
+### GET /search
+# @name searchGet
+GET http://api.opendota.com/api/search

@@ -1,0 +1,5 @@
+## LiveApi
+
+### GET /live
+# @name liveGet
+GET http://api.opendota.com/api/live

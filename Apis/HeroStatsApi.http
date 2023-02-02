@@ -1,0 +1,5 @@
+## HeroStatsApi
+
+### GET /heroStats
+# @name heroStatsGet
+GET http://api.opendota.com/api/heroStats

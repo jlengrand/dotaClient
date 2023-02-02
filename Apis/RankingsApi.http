@@ -1,0 +1,5 @@
+## RankingsApi
+
+### GET /rankings
+# @name rankingsGet
+GET http://api.opendota.com/api/rankings

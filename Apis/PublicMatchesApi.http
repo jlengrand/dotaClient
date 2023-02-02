@@ -1,0 +1,5 @@
+## PublicMatchesApi
+
+### GET /publicMatches
+# @name publicMatchesGet
+GET http://api.opendota.com/api/publicMatches

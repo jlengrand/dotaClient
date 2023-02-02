@@ -1,0 +1,5 @@
+## PlayersByRankApi
+
+### GET /playersByRank
+# @name playersByRankGet
+GET http://api.opendota.com/api/playersByRank

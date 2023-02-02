@@ -1,0 +1,5 @@
+## ExplorerApi
+
+### GET /explorer
+# @name explorerGet
+GET http://api.opendota.com/api/explorer

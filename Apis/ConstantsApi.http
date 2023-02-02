@@ -1,0 +1,9 @@
+## ConstantsApi
+
+### GET /constants
+# @name constantsGet
+GET http://api.opendota.com/api/constants
+
+### GET /constants
+# @name constantsResourceGet
+GET http://api.opendota.com/api/constants/{{resource}}

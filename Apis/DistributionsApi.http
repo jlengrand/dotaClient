@@ -1,0 +1,5 @@
+## DistributionsApi
+
+### GET /distributions
+# @name distributionsGet
+GET http://api.opendota.com/api/distributions

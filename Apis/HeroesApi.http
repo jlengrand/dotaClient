@@ -1,0 +1,25 @@
+## HeroesApi
+
+### GET /heroes
+# @name heroesGet
+GET http://api.opendota.com/api/heroes
+
+### GET /heroes/{hero_id}/durations
+# @name heroesHeroIdDurationsGet
+GET http://api.opendota.com/api/heroes/{{hero_id}}/durations
+
+### GET /heroes/{hero_id}/itemPopularity
+# @name heroesHeroIdItemPopularityGet
+GET http://api.opendota.com/api/heroes/{{hero_id}}/itemPopularity
+
+### GET /heroes/{hero_id}/matches
+# @name heroesHeroIdMatchesGet
+GET http://api.opendota.com/api/heroes/{{hero_id}}/matches
+
+### GET /heroes/{hero_id}/matchups
+# @name heroesHeroIdMatchupsGet
+GET http://api.opendota.com/api/heroes/{{hero_id}}/matchups
+
+### GET /heroes/{hero_id}/players
+# @name heroesHeroIdPlayersGet
+GET http://api.opendota.com/api/heroes/{{hero_id}}/players

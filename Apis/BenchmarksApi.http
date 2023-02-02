@@ -1,0 +1,5 @@
+## BenchmarksApi
+
+### GET /benchmarks
+# @name benchmarksGet
+GET http://api.opendota.com/api/benchmarks

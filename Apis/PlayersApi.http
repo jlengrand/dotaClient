@@ -1,0 +1,61 @@
+## PlayersApi
+
+### GET /players/{account_id}/counts
+# @name playersAccountIdCountsGet
+GET http://api.opendota.com/api/players/{{account_id}}/counts
+
+### GET /players/{account_id}
+# @name playersAccountIdGet
+GET http://api.opendota.com/api/players/{{account_id}}
+
+### GET /players/{account_id}/heroes
+# @name playersAccountIdHeroesGet
+GET http://api.opendota.com/api/players/{{account_id}}/heroes
+
+### GET /players/{account_id}/histograms
+# @name playersAccountIdHistogramsFieldGet
+GET http://api.opendota.com/api/players/{{account_id}}/histograms/{{field}}
+
+### GET /players/{account_id}/matches
+# @name playersAccountIdMatchesGet
+GET http://api.opendota.com/api/players/{{account_id}}/matches
+
+### GET /players/{account_id}/peers
+# @name playersAccountIdPeersGet
+GET http://api.opendota.com/api/players/{{account_id}}/peers
+
+### GET /players/{account_id}/pros
+# @name playersAccountIdProsGet
+GET http://api.opendota.com/api/players/{{account_id}}/pros
+
+### GET /players/{account_id}/rankings
+# @name playersAccountIdRankingsGet
+GET http://api.opendota.com/api/players/{{account_id}}/rankings
+
+### GET /players/{account_id}/ratings
+# @name playersAccountIdRatingsGet
+GET http://api.opendota.com/api/players/{{account_id}}/ratings
+
+### GET /players/{account_id}/recentMatches
+# @name playersAccountIdRecentMatchesGet
+GET http://api.opendota.com/api/players/{{account_id}}/recentMatches
+
+### POST /players/{account_id}/refresh
+# @name playersAccountIdRefreshPost
+POST http://api.opendota.com/api/players/{{account_id}}/refresh
+
+### GET /players/{account_id}/totals
+# @name playersAccountIdTotalsGet
+GET http://api.opendota.com/api/players/{{account_id}}/totals
+
+### GET /players/{account_id}/wardmap
+# @name playersAccountIdWardmapGet
+GET http://api.opendota.com/api/players/{{account_id}}/wardmap
+
+### GET /players/{account_id}/wl
+# @name playersAccountIdWlGet
+GET http://api.opendota.com/api/players/{{account_id}}/wl
+
+### GET /players/{account_id}/wordcloud
+# @name playersAccountIdWordcloudGet
+GET http://api.opendota.com/api/players/{{account_id}}/wordcloud

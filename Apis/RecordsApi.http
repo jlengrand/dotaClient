@@ -1,0 +1,5 @@
+## RecordsApi
+
+### GET /records/{field}
+# @name recordsFieldGet
+GET http://api.opendota.com/api/records/{{field}}

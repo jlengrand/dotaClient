@@ -1,0 +1,5 @@
+## MatchesApi
+
+### GET /matches/{match_id}
+# @name matchesMatchIdGet
+GET http://api.opendota.com/api/matches/{{match_id}}

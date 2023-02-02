@@ -1,0 +1,5 @@
+## FindMatchesApi
+
+### GET /
+# @name findMatchesGet
+GET http://api.opendota.com/api/findMatches
