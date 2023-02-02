@@ -7,7 +7,7 @@ GET http://api.opendota.com/api/heroes
 
 > {%
     client.test("Request executed successfully", function() {
-        client.assert(response.body.length == 126, "DOTA 2 currently has 123 heroes");
+        client.assert(response.body.length == 123, "DOTA 2 currently has 123 heroes");
     });
 %}
 
